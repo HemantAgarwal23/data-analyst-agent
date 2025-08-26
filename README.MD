@@ -53,7 +53,7 @@ An intelligent data analysis tool that allows users to upload CSV/Excel files an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-analyst-agent.git
+   git clone https://github.com/HemantAgarwal23/data-analyst-agent.git
    cd data-analyst-agent
    ```
 
@@ -98,11 +98,8 @@ regex>=2023.6.3
 
 ## 📊 Sample Data
 
-The `/sample_data/` folder contains example datasets to test the application:
+The `/sample_data/` folder contains example datasets to test the application
 
-- `sales_data.csv` - E-commerce sales records
-- `employee_data.xlsx` - HR employee information
-- `inventory.csv` - Product inventory tracking
 
 ### Sample Data Structure:
 ```csv
@@ -240,24 +237,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the amazing web framework
 - **The open-source community** for various libraries used
 
-## 📞 Support
 
-If you encounter any issues or have questions:
 
-1. **Check the Issues tab** for existing solutions
-2. **Create a new issue** with detailed information about your problem
-3. **Include sample data** and error messages when possible
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/data-analyst-agent)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/data-analyst-agent)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/data-analyst-agent)
-![Python version](https://img.shields.io/badge/python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
----
-
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Hemant Agarwal**
 
 *If this project helped you, please consider giving it a ⭐ on GitHub!*
