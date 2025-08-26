@@ -41,7 +41,7 @@ An intelligent data analysis tool that allows users to upload CSV/Excel files an
 ```
 
 ### Example Output:
-![Demo Screenshot](screenshots/demo.png)
+![Demo Screenshot](https://github.com/HemantAgarwal23/data-analyst-agent/blob/main/Screenshot%202025-08-27%20010713.png)
 
 ## 🛠️ Installation
 
